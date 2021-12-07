@@ -1,0 +1,3 @@
+Hi there am Isaac masinde
+Am a software developer and mechanical engineer..
+Python, java and go.....
