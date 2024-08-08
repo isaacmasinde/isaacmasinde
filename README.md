@@ -23,9 +23,6 @@ I am a passionate software developer and mechanical engineer with a knack for so
 
 ## 💼 Professional Experience
 
-### Mechanical Engineering
-- **Automotive Design:** Worked on designing and building automotive components.
-- **Production Engineering Research:** Conducted extensive research in production engineering to optimize manufacturing processes.
 
 ### Software Development
 - **Machine Learning:** Developed algorithms for autonomous systems.
