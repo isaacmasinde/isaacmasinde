@@ -15,9 +15,9 @@ I am a passionate software developer and mechanical engineer with a knack for so
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, Java, Go
-- **Technologies:** Machine Learning, Micro-controllers, Web Development
-- **Software Tools:** SolidWorks, CATIA V5, .NET Core, MVC
+- **Programming Languages:** Python Django, HTML, Embedded C, React Native
+- **Technologies:** Micro-controllers, Web Development,
+- **Software Tools:** Autocad, EasyEDA
 
 ---
 
@@ -25,7 +25,7 @@ I am a passionate software developer and mechanical engineer with a knack for so
 
 
 ### Software Development
-- **Machine Learning:** Developed algorithms for autonomous systems.
+- **Machine Learning:** Developed algorithms for embedded systems.
 - **Web Development:** Built efficient and scalable web applications.
 - **Micro-controllers:** Created and integrated solutions using micro-controllers for various projects.
 
